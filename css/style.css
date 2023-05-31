@@ -115,7 +115,7 @@ body {
 }
 
 /* 
-.btn {
+button {
     padding: 10px 12px;
     font-size: 16px;
     background-color: #50af50;
@@ -125,7 +125,7 @@ body {
     margin-left: 12px;
 }
 
-.btn:hover {
+button:hover {
     opacity: 0.8;
     cursor: pointer;
 } 
